@@ -1,0 +1,20 @@
+[general]
+name= SigFox Profile Tool
+qgisMinimumVersion=3.6
+description=Plots  terrain profile between a Base Station of SigFox and an IoT device
+about= This tool draws profile lines from raster layers or polygons vector layer with cadastral information of buildings. The tracing of the profile allows estimating the clearance of the radio path between two antennas (SigFox BS and an IoT device).
+category=Raster
+version=1.0
+author=Edward Oswaldo Navarro Astudillo
+email=edward@unicauca.edu.co
+
+tags=raster, vector, profile
+
+homepage=
+tracker=
+repository=
+icon=icons/profileIcon.png
+
+experimental=True
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False

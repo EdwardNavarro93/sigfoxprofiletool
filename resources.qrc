@@ -1,0 +1,5 @@
+<RCC>
+ <qresource prefix="/plugins/profiletool">
+  <file>icons/profileIcon.png</file>
+ </qresource>
+</RCC>
